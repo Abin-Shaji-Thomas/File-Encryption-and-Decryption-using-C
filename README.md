@@ -56,6 +56,7 @@ Enter your choice (1 or 2):
 
 - Add support for multiple encryption algorithms
 - Option to enter a multi-character key for added security
-- User interface improvements for easier navigation
+- User interface improvements for easier navigation.
 
 ---
+
